@@ -52,7 +52,7 @@ For each type of conversion specified in the project requirements, there's a cor
     
 • <a href="src/ft_print_hexadecimal.c">%x </a>print a number in hexadecimal (base 16).
     
-• <a href="">%% </a>print a percent sign.
+• <a href="src/ft_print_percent.c">%% </a>print a percent sign.
 
 ## NORMINETTE
 At 42 School, aligning to the [42 Norms](en_norm.pdf), the school's coding standard, is a fundamental expectation for all projects.
